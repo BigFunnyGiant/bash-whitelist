@@ -14,11 +14,10 @@ cp whatismyip.sh /usr/local/bin
 or copy it to somewhere you like, maybe in the PATH so you can execute it from anywhere.
 Remember to check the permissions as well.
 ```
-
-# Usage
+## Usage
 Edit the script, and for the WHITE_LIST_FILE variable, put the path to the text file.
 
-# Dependencies
+## Dependencies
 - bash
 - dig
 - grep
