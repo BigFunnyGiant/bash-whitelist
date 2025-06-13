@@ -9,7 +9,7 @@ Useful, in situations like, if you're running a Mystic BBS and you want to add y
 ```bash
 git clone https://github.com/BigFunnyGiant/bash-whitelist # clone the repository
 cd bash-wwhitelit
-cp whatismyip.sh /usr/local/bin
+cp whitelist.sh /usr/local/bin
 ```
 or copy it to somewhere you like, maybe in the PATH so you can execute it from anywhere.
 Remember to check the permissions as well.
